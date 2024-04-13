@@ -1,0 +1,38 @@
+* {
+    font-family: Helvetica;
+}
+
+h1 {
+    text-align: center;
+    color: darkslateblue;
+}
+
+nav, a {
+    text-align: center;
+    color: plum; 
+}
+
+h2 {
+    color: rebeccapurple;
+    padding-top: 10px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+th {
+    font-weight: bold;
+    background-color: plum;
+}
+
+.code {
+    background-color: thistle;
+    font-family: monospace;
+}
+
+tr:hover {
+    background-color: lavenderblush;
+}
