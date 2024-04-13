@@ -1,3 +1,4 @@
 # HTML Tag Cheatsheet
 
-![image](https://github.com/maddielingad/CheatSheet/assets/96184579/3fb0fe54-ea19-479f-8df9-434bb091afef)
+![image](https://github.com/maddielingad/CheatSheet/assets/96184579/d7e68e26-fc48-485d-ad5d-a1aeed571634)
+
