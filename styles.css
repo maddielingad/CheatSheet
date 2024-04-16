@@ -1,9 +1,6 @@
 * {
     font-family: Helvetica;
 }
-body {
-padding-bottom: 50px;
-}
 
 h1 {
     text-align: center;
@@ -46,4 +43,13 @@ th {
 
 tr:hover {
     background-color: lavenderblush;
+}
+
+footer {
+    text-align: center;
+    padding-top: 20px;   
+}
+
+footer p {
+    font-size: 12px;
 }
