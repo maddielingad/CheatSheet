@@ -13,7 +13,5 @@ I created a cheat sheet for HTML tags I learned thus far.
 3. Utilize a custom color scheme.
 4. Use custom styles for any code such as HTML tags.
 
-![image](https://github.com/maddielingad/CheatSheet/assets/96184579/84ec643f-fc04-4fe9-854e-4a0a0a6ae861)
-
-
-
+### Desktop View
+![Cheatsheet Desktop](https://github.com/maddielingad/CheatSheet/assets/96184579/b0db88ae-acf6-4de8-8361-f5a82b008c23)
